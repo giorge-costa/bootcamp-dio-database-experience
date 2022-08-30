@@ -1,2 +1,5 @@
-# dio-bootcamp-desafio-github-primeiro-repositorio
-bootcamp sobre Banco de Dados da DIO para se aprimorar nos principais conceitos de banco de dados SQL e NoSQL.
+# Desafio de Projeto sobre Git/GitHub
+Repositório criado para o primeiro desafio de projeto.
+
+## Links Úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
